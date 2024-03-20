@@ -1,0 +1,37 @@
+{
+    "persons": [
+        {
+            "firstname": "Petter",
+            "lastname": "Larsson",
+            "dateofbirth": 1993,
+            "address": "Solna"
+        },
+        {
+            "firstname": "Jonas",
+            "lastname": "Borg",
+            "dateofbirth": 1990,
+            "address": "Stockholm"
+        },
+        {
+            "firstname": "Joar",
+            "lastname": "Martens",
+            "dateofbirth": 1990,
+            "address": "Liljeholmen"
+        },
+        {
+            "firstname": "Fredrik",
+            "lastname": "Reinfeldt",
+            "dateofbirth": 1965,
+            "address": "Stockholm"
+        },
+        {
+            "firstname": "Stefan",
+            "lastname": "Lofven",
+            "dateofbirth": 1955,
+            "address": "Jonkoping"
+        }
+    ]
+
+
+
+}
